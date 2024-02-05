@@ -106,7 +106,7 @@ fun ComposeBottomSheet(modifier: Modifier = Modifier) {
                                     showBottomSheet = false
                                 }
                             }})
-                            .padding(14.dp)
+                            .padding(8.dp)
                             .align(Alignment.End)
 
                     )
@@ -119,7 +119,7 @@ fun ComposeBottomSheet(modifier: Modifier = Modifier) {
                                 horizontalAlignment = Alignment.CenterHorizontally,
                                 modifier = Modifier
                                     .fillMaxWidth()
-                                    .padding(top = 24.dp)
+                                    .padding(top = 24.dp, bottom = 24.dp)
                             ) {
                                 Spacer(modifier = Modifier.padding(8.dp))
                                 Icon(
