@@ -28,7 +28,8 @@ This example demonstrates how to make a Jetpack Compose Bottom sheet dialog.
                     }
    ```
 # Screenshots
-<img src="https://github.com/denkiri/ComposeLoginApp/blob/master/Screenshot_20240205_231055.png" width="250" height="540">|<img src="https://github.com/denkiri/ComposeLoginApp/blob/master/Screenshot_20240205_231033.png" width="250" height="540">
-<img src="https://github.com/denkiri/ComposeLoginApp/blob/master/Screenshot_20240205_230923.png" width="250" height="540">|<img src="https://github.com/denkiri/ComposeLoginApp/blob/master/Screenshot_20240205_231007.png" width="250" height="540">
+<img src="https://github.com/denkiri/BottomsheetWithCompose/blob/master/Screenshot_20240205_231055.png" width="250" height="540">|<img src="https://github.com/denkiri/BottomsheetWithCompose/blob/master/Screenshot_20240205_231033.png" width="250" height="540">
+
+<img src="https://github.com/denkiri/BottomsheetWithCompose/blob/master/Screenshot_20240205_230923.png" width="250" height="540">|<img src="https://github.com/denkiri/BottomsheetWithCompose/blob/master/Screenshot_20240205_230834.png" width="250" height="540">
 
 
